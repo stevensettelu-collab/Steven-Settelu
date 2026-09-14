@@ -1,0 +1,6 @@
+{
+  "name": "Cre8 Salon Unisex Mulund",
+  "description": "Premium unisex salon in Mulund West, Mumbai offering luxury hair, beauty, grooming, bridal, and spa services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
